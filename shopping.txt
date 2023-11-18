@@ -1,0 +1,61 @@
+Name - Dhanya R 
+Bangalore Institute of Technology
+8762729846
+dannyratheya2440@gmail.com
+
+Code :
+(Python)
+
+def basket()
+char product,unit,gst, quant
+unit = unit + (gst/unit)*100
+
+print('enter product name',product)
+
+if(product = 'leather_wallet'):
+	unit == 1100
+	gst = 18
+	quan = 1
+
+elif(product = 'umbrella'):
+	unit == 900
+	gst = 12
+	quan = 4
+
+
+elif(product = 'cigrette'):
+	unit == 200
+	gst = 28
+	quan = 3
+
+else(product = 'honey')
+	unit == 100
+	gst = 0
+	quan = 4
+
+rate = unit*quan 
+
+if(unit >=500)
+
+unit = unit - 5/100(unit)
+
+max_gst=max(gst)
+
+
+print('max gst amount product =', max_gst)
+
+total_amount = sum(rate)
+
+print('total amount =',total_amount )
+
+
+
+
+
+
+
+
+
+
+	
+
